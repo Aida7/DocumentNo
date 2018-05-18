@@ -1,0 +1,13 @@
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\bin\Debug\DocumentEf.exe.config
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\bin\Debug\DocumentEf.exe
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\bin\Debug\DocumentEf.pdb
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\bin\Debug\EntityFramework.dll
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\bin\Debug\EntityFramework.xml
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\obj\Debug\DocumentEf.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\obj\Debug\DocumentEf.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\obj\Debug\DocumentEf.csproj.CopyComplete
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\obj\Debug\DocumentEf.exe
+C:\Users\СадыковаА\Desktop\DocumentEf-No-master\DocumentEf\obj\Debug\DocumentEf.pdb
